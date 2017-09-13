@@ -1,2 +1,2 @@
 UI Architecture taking into consideration both SDK and PAAS capabilities
-https://gurudathreddy.github.io/ui-architecture/
+https://angularjs-platform.github.io/architecture/
